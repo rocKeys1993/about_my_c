@@ -1,0 +1,4 @@
+1. touch hello.c
+2. gcc hello.c
+3. a.out ? 这个文件是如何产生的。
+4. ./a.out 会看到c程序的执行
