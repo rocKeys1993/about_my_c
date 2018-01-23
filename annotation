@@ -1,0 +1,16 @@
+1. 单行注释
+
+2. 多行注释
+
+	a):
+	 /* 
+		this is annotation context
+	    	1. xxxx
+	    	2. xxxx
+	    	3. xxxx
+	    	4. xxxx
+
+	 */
+
+	b):
+	
