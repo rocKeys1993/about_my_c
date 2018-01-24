@@ -1,7 +1,7 @@
-#define S(a,b) a*b
 #include <stdio.h>
+#define S(a,b) a*b
 
-
+// include 用来加载头文件
 /*
  * 这个程序用来理解#define 的意义
  * define 可以定义一个全局规则，结合全局变量的概念。也可以叫做，全局函数。

@@ -1,5 +1,6 @@
 1. touch hello.c
 2. gcc hello.c
-3. a.out ? 这个文件是如何产生的。
-4. ./a.out 会看到c程序的执行
-5. c 是以分号结尾的,java 也是以分号结尾的。
+3. c 是以分号结尾的,java 也是以分号结尾的。
+4. cc -o compilefilename sourcecodefile.c
+5. extern 用来声明变量
+
