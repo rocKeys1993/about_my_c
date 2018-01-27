@@ -1,3 +1,0 @@
-1. clang 是c语言，同时也是 objective -c 和 c++ 以及objective-c++的编译器。
-	os x 上使用的linux使用的cc 编译器是clang,可以使用whereis cc 然后 ls -l whereis cc 的目录。会发现，cc 指定到clang
-	cc -v 和 gcc -v 以及 clang -v都可以看到编译器的版本。
