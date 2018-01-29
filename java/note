@@ -1,0 +1,1 @@
+javac -d classfilePath sourcefile //把机器码编译生成到指定的位置。使用-d 参数。
